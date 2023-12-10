@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True
 
 #url = 'https://github.com/Lmn75-PGH/Prog-2-Final/social_media_usage.csv?raw=true'
-s = pd.read_csv('https://github.com/Lmn75-PGH/Prog-2-Final/tree/main/social_media_usage.csv',index_col=0)
+s = pd.read_csv('https://raw.githubusercontent.com/Lmn75-PGH/Prog-2-Final/main/social_media_usage.csv',index_col=0)
 
 #s = pd.read_csv('C:\\Users\\lmnat\\OneDrive\\Desktop\\Prog 2 Final\\social_media_usage.csv')
 
